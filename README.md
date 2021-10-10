@@ -1,1 +1,1 @@
-# NewYear.github.io
+# newyear.github.io
